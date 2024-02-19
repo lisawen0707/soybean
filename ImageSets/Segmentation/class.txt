@@ -1,0 +1,5 @@
+Class	R	G	 B
+1	0 	0 	0 	_background_
+2	128 	0 	0 	crushed grain
+3	0 	128	 0 	intact grain
+4	128	 128	 0 	impurity
